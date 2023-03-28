@@ -19,15 +19,11 @@ body {
     background-color: beige;
 }
 
-.cat {
-    display: flex;
-    justify-content: center;
-    padding: 10px;
-}
-.cat > div {
-    color: blue;
-    margin:25px;
+.me {
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 110px;
+    height: 150px;
     
-
-
 }
