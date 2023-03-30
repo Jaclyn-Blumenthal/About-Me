@@ -8,7 +8,7 @@
 
 }
 h1 {
-    color: rgb(23, 161, 161);
+    color: rgb(244, 55, 244);
 text-align: center;
 }
 p {
@@ -26,4 +26,12 @@ body {
     width: 110px;
     height: 150px;
     
+}
+h2{
+    color: rgb(46, 46, 233);
+    text-decoration: underline;
+}
+a {
+    color: rgb(223, 20, 88);
+    font-size: 20px;
 }
